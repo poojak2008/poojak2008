@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Pooja Kamble  
 ### iOS Developer | Swift Enthusiast | Mobile App Creator  
-
-![Profile Views](https://komarev.com/ghpvc/?username=poojakamble&color=blueviolet)
-
 ---
 
 ## 🚀 About Me
