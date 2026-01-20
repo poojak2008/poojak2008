@@ -1,104 +1,66 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=26&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+an+iOS+Developer;UIKit+Developer;Pursuing+Swift+%26+SwiftUI;Building+Clean+iOS+Applications" />
-</p>
+# 👋 Hi, I'm Pooja Kamble  
+### iOS Developer | Swift Enthusiast | Mobile App Creator  
+
+![Profile Views](https://komarev.com/ghpvc/?username=poojakamble&color=blueviolet)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh5dW9lNmY1NnR3c2FqZ29zOHQ1MGp2ZzE3NmZwa3VnN3M5M2Y2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
-</p>
+## 🚀 About Me
+- Passionate iOS developer creating smooth, user-friendly mobile experiences.  
+- Skilled in **Swift**, **UIKit**, **Combine**, and **CoreData**.  
+- Currently **pursuing SwiftUI** to build modern, declarative UI for iOS apps.  
+- Experienced with **Firebase**, **API integration**, and **animations**.  
+- Lifelong learner and advocate for clean, maintainable code and polished UI/UX.  
 
 ---
 
-# 👋 Hi, I'm an iOS Developer
+## 💻 Tech Stack
 
-🚀 **iOS Developer with hands-on experience in UIKit**, currently **pursuing Swift and SwiftUI** to build modern, scalable, and elegant iOS applications.
-
-I enjoy crafting clean architectures, writing maintainable code, and continuously improving my iOS development skills.
-
----
-
-## 🧑‍💻 About Me
-
-- 📱 iOS Developer (**UIKit – Hands-on**)
-- 🌱 **Pursuing Swift & SwiftUI**
-- 🧠 Learning and applying **MVVM architecture**
-- 🌐 Experience with **REST APIs**, networking & JSON parsing
-- 🔁 Passionate about clean code & scalable app design
-- 📚 Always learning and improving
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Pursuing-007ACC?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-4DB6AC?style=for-the-badge&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack
+## 📈 GitHub Stats
 
-### Core iOS Skills
-<p>
-  <img src="https://img.shields.io/badge/UIKit-Hands--On-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Swift-Pursuing-orange?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-Pursuing-blue?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
+![Pooja Kamble's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojakamble&show_icons=true&theme=radical&count_private=true)
 
-### Networking & Data
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-Experience-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Alamofire-Red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/URLSession-Gray?style=for-the-badge"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojakamble&layout=compact&theme=radical)
 
 ---
 
-## 📱 What I'm Currently Working On
+## 🌟 Featured Projects
 
-- 🚀 Strengthening **Swift fundamentals**
-- 🧩 Building reusable **UIKit components**
-- 🌱 Learning **SwiftUI** and modern iOS UI patterns
-- 🌍 Creating API-driven iOS apps
-- 🧪 Improving code structure and architecture
+### 📱 [Awesome iOS App 1](https://github.com/poojakamble/project1)  
+- Built with **Swift** and **Combine**.  
+- Features smooth animations and intuitive UI components.
 
----
+### 📱 [Awesome iOS App 2](https://github.com/poojakamble/project2)  
+- Uses **CoreData**, **Firebase**, and **MVVM architecture**.  
+- Optimized for performance and accessibility.
 
-## 📌 Featured Projects
-
-### 🔹 News App (UIKit | MVVM)
-- REST API integration
-- Category, country & language-based news
-- Clean MVVM architecture
-- Scalable networking layer
-
-### 🔹 Swift & SwiftUI Practice Apps
-- Swift fundamentals
-- State management & navigation
-- Custom views & animations
+### 📱 [Awesome iOS App 3](https://github.com/poojakamble/project3)  
+- Includes custom animations, gestures, and API integration.  
 
 ---
 
-## 🎯 Goals
-
-- 📌 Become confident in **Swift**
-- 🚀 Build production-ready iOS apps
-- 🌱 Master **SwiftUI**
-- ⚡ Learn **async/await & Swift Concurrency**
-- 🤝 Contribute to open-source iOS projects
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *Add your LinkedIn here*
-- 📧 Email: *Add your email here*
-
----
+## 🎨 Fun Animations
 
 <p align="center">
-  ⭐️ <strong>Feel free to explore my repositories and drop a star if you like my work!</strong>
+  <img src="https://github.com/poojakamble/animated-gifs/blob/main/ios-animation.gif" alt="iOS Animation" width="400"/>
 </p>
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *Add your LinkedIn here*
-- 📧 Email: *Add your email here*
 
 ---
 
-⭐️ *Feel free to explore my repositories and drop a star if you like my work!*
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poojakamble)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/poojakamble)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojakamble@example.com)
+
+---
+
+*“Striving to make every line of code count and every animation feel alive.”* ✨
